@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Youssef Osama</h1>
 <h3 align="center">I am Student At The Faculty Of Computer Science And Information Technology</h3>
-<img align="right" alt="Coding" width=400 src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/35d4d034938099.56e31c3d864df.gif"/>
+<img align="right" alt="Coding" width=200 src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/35d4d034938099.56e31c3d864df.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefosama12345&label=Profile%20views&color=0e75b6&style=flat" alt="youssefosama12345" /> </p>
 
