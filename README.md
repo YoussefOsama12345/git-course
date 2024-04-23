@@ -3,7 +3,7 @@
 <h3 align="center">I am Student At The Faculty Of Computer Science And Information Technology</h3>
 
 
-https://mir-s3-cdn-cf.behance.net/project_modules/hd/35d4d034938099.56e31c3d864df.gif<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefosama12345&label=Profile%20views&color=0e75b6&style=flat" alt="youssefosama12345" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefosama12345&label=Profile%20views&color=0e75b6&style=flat" alt="youssefosama12345" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefosama12345" alt="youssefosama12345" /></a> </p>
 
